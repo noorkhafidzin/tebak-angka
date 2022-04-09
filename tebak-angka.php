@@ -24,7 +24,7 @@ if (!isset($_SESSION['angkaRand'])) {
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link" href="#">Github Repo</a>
+                    <a class="nav-link" href="https://github.com/noorkhafidzin/tebak-angka">Github Repo</a>
                     <a class="nav-link" href="https://about.noorkhafidzin.com">About Me</a>
                 </div>
             </div>
